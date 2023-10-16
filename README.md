@@ -24,9 +24,10 @@ About me:
 - 🤔 I’m looking for help with programming in general since I'm always open to learn new stacks. 
 - 💬 Ask me about anything but programming is the field I would like to discuss about.
 - 📫 How to reach me: 
-Mail: sempedia@gmail.com
-LinkedIn: https://www.linkedin.com/in/alina-bazavan
-Phone: +4 0767.970.718
+- Mail: sempedia@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alina-bazavan
+- Phone: +4 0767.970.718
+- Medium.com: https://medium.com/@sempedia
 - ⚡ Curiosity: I'm curious by nature and always prepared with patience to face all the challenges that lie ahead and accomplish the best result in what I do.
 - 😄 Fun fact: I am here now ⚡...
 
