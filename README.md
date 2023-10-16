@@ -8,10 +8,10 @@ I'm a Backend Developer working mostly with Python and Django and I'm committed 
 Always Make Things Work!
 
 ⚙️ Things I like to do: 
-🖥 Web Applications
-🌱 Long walkings in nature
-👯 Communicate on all channels
-💡 Brainstorming
+- 🖥 Web Applications
+- 🌱 Long walks in nature
+- 👯 Communication on all channels
+- 💡 Brainstorming
 
 
 
@@ -19,7 +19,7 @@ About me:
 
 - 🔭 I’m currently working as Backend Developer (Python / Django).
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on all type of projects availeble.
+- 👯 I’m looking to collaborate on all type of projects available.
 - 💡 I try to help anyone that requires assitance in programming as much as my time allows me.
 - 🤔 I’m looking for help with programming in general since I'm always open to learn new stacks. 
 - 💬 Ask me about anything but programming is the field I would like to discuss about.
