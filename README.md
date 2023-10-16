@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,
+I'm Alina
 
 <!--
 **sempedia/sempedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -13,6 +14,5 @@
 Mail: sempedia@gmail.com
 LinkedIn: https://www.linkedin.com/in/alina-bazavan
 Phone: +4 0767.970.718
-- 😄 Pronouns: Ms
-- ⚡ Fun fact: I am here now 😄 ...
+- 😄 Fun fact: I am here now ⚡...
 
