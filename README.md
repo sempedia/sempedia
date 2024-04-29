@@ -18,7 +18,7 @@ Always Make Things Work!
 About me:
 
 - 🔭 I’m currently working as Backend Developer (Python / Django).
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning JavaScript, TypeScript and Angular.
 - 👯 I’m looking to collaborate on all type of projects available.
 - 💡 I try to help anyone that requires assitance in programming as much as my time allows me.
 - 🤔 I’m looking for help with programming in general since I'm always open to learn new stacks. 
