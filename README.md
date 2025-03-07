@@ -4,8 +4,7 @@ I'm Alina
 <!--
 **sempedia/sempedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a Backend Developer working mostly with Python and Django and I'm committed to Continuous Learning and Problem-Solving. I like to
-Always Make Things Work!
+I'm a Backend Developer working mostly with Python and Django and I'm committed to Continuous Learning and Problem-Solving. I like to Always Make Things Work!
 
 ⚙️ Things I like to do: 
 - 🖥 Web Applications
@@ -17,8 +16,8 @@ Always Make Things Work!
 
 About me:
 
-- 🔭 I’m currently working as Backend Developer (Python / Django).
-- 🌱 I’m currently learning JavaScript, TypeScript and Angular.
+- 🔭 I’m currently working as Backend Developer (Python / Django) and Frontend (Typescript / Angular).
+- 🌱 I’m currently learning Terraform.
 - 👯 I’m looking to collaborate on all type of projects available.
 - 💡 I try to help anyone that requires assitance in programming as much as my time allows me.
 - 🤔 I’m looking for help with programming in general since I'm always open to learn new stacks. 
