@@ -1,32 +1,38 @@
-### Hi there 👋,
-I'm Alina
+# Hi there 👋  
+I'm **Alina** — a Backend Developer working mostly with **Python**, **Django**, and **Java**, with frontend experience in **TypeScript** and **Angular**. 
+I'm committed to **continuous learning** and **problem-solving**. I love to **always make things work!**
 
-<!--
-**sempedia/sempedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+---
 
-I'm a Backend Developer working mostly with Python and Django and I'm committed to Continuous Learning and Problem-Solving. I like to Always Make Things Work!
+### ⚙️ Things I like to do:
+- 🖥 Building web applications  
+- 🌱 Taking long walks in nature  
+- 👯 Communicating across all channels  
+- 💡 Brainstorming creative ideas  
 
-⚙️ Things I like to do: 
-- 🖥 Web Applications
-- 🌱 Long walks in nature
-- 👯 Communication on all channels
-- 💡 Brainstorming
+---
 
+### 👩‍💻 About me:
+- 🔭 Currently working as a Backend Developer (Python / Django / Java) and Frontend developer (TypeScript / Angular)  
+- 🌱 Continuously learning new tools and applying them to my apps  
+- 👯 Open to collaborating on all kinds of projects  
+- 💡 Enjoy helping others with programming whenever time allows  
+- 🤔 Always exploring new stacks and improving my skills  
+- 💬 Ask me anything — especially about programming, my favorite topic!
 
+---
 
-About me:
+### 📫 How to reach me:
+- **Email**: sempedia@gmail.com  
+- **LinkedIn**: [alina-bazavan](https://www.linkedin.com/in/alina-bazavan)  
+- **Medium**: [@sempedia](https://medium.com/@sempedia)  
 
-- 🔭 I’m currently working as Backend Developer (Python / Django) and Frontend (Typescript / Angular).
-- 🌱 I’m continuously learning new tools and applying them to my apps.
-- 👯 I’m looking to collaborate on all type of projects available.
-- 💡 I try to help anyone that requires assitance in programming as much as my time allows me.
-- 🤔 I’m looking for help with programming in general since I'm always open to learn new stacks. 
-- 💬 Ask me about anything but programming is the field I would like to discuss about.
-- 📫 How to reach me: 
-- Mail: sempedia@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alina-bazavan
-- Phone: +4 0767.970.718
-- Medium.com: https://medium.com/@sempedia
-- ⚡ Curiosity: I'm curious by nature and always prepared with patience to face all the challenges that lie ahead and accomplish the best result in what I do.
-- 😄 Fun fact: I am here now ⚡...
+---
 
+### ⚡ Curiosity:
+Naturally curious and always ready to face challenges with patience and persistence — striving to deliver the best results in everything I do.
+
+---
+
+### 😄 Fun fact:
+I’m here now ⚡...
