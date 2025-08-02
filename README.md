@@ -17,7 +17,7 @@ I'm a Backend Developer working mostly with Python and Django and I'm committed 
 About me:
 
 - 🔭 I’m currently working as Backend Developer (Python / Django) and Frontend (Typescript / Angular).
-- 🌱 I’m continuously learning new tools and apply them on my apps.
+- 🌱 I’m continuously learning new tools and applying them to my apps.
 - 👯 I’m looking to collaborate on all type of projects available.
 - 💡 I try to help anyone that requires assitance in programming as much as my time allows me.
 - 🤔 I’m looking for help with programming in general since I'm always open to learn new stacks. 
